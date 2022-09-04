@@ -33,7 +33,7 @@
                 android:layout_marginLeft="10dp"
                 android:layout_marginTop="10dp"
                 android:gravity="center"
-                android:text="Partner"
+                android:text="Caller Mail"
                 android:textSize="18sp"
                 android:textStyle="bold" />
 
@@ -44,7 +44,7 @@
                 android:layout_marginLeft="15dp"
                 android:layout_marginTop="30dp"
                 android:layout_toRightOf="@+id/user_image"
-                android:text="Partner Name"
+                android:text="Caller Name"
                 android:textSize="18sp"
                 android:textStyle="bold" />
 
@@ -58,7 +58,7 @@
                 android:layout_marginTop="29dp"
                 android:layout_toEndOf="@+id/caller_type"
                 android:layout_toRightOf="@id/caller_type"
-                android:text="Card Code | ACTIVE" />
+                android:text="Other Details" />
 
             <ImageButton
                 android:id="@+id/closeImageButton"
